@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/barbiegan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/barbiegan/Documents/Bluetooth4_3/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_930ef5c970f84711d8e0a24afe83f27e543777b6.jar" />
+    </item>
+
+</items>

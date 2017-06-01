@@ -1,0 +1,4 @@
+#Wed May 31 11:19:03 CST 2017
+base.0=/Users/barbiegan/Documents/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/barbiegan/Documents/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
