@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/barbiegan/Documents/Device_OTA_BLE/app/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Users/barbiegan/Documents/Device_OTA_BLE/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/Users/barbiegan/Documents/Device_OTA_BLE/app/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/Users/barbiegan/Documents/Device_OTA_BLE/app/src/main/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/Users/barbiegan/Documents/Device_OTA_BLE/app/build/intermediates/res/merged/debug/layout/gatt_services_characteristics.xml",
+        "source": "/Users/barbiegan/Documents/Device_OTA_BLE/app/src/main/res/layout/gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "/Users/barbiegan/Documents/Device_OTA_BLE/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/barbiegan/Documents/Device_OTA_BLE/app/src/main/res/layout/activity_main.xml"
+    }
+]

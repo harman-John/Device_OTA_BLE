@@ -1,0 +1,4 @@
+#Thu Jun 01 14:56:07 CST 2017
+base.0=/Users/barbiegan/Documents/Device_OTA_BLE/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/barbiegan/Documents/Device_OTA_BLE/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
