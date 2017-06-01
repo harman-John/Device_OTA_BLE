@@ -37,7 +37,6 @@
         
          <activity android:name=".DeviceControlActivity"
              android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".MainActivity"/>
         <service android:name=".BluetoothLeService" android:enabled="true"/>
 
     </application>
